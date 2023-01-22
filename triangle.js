@@ -2,7 +2,7 @@ INVALID_ARGUMENTS = "The arguments were not valid";
 NOT_A_TRIANGLE = "Impossible to create a triangle with those sides";
 EQUILATERAL = "Equilateral triangle";
 ISOSCELES = "Isosceles triangle";
-SCALENE = "Scalene triangle;
+SCALENE = "Scalene triangle";
 
 /*
  * Given the three sides of a triangle it calculates the type of the
